@@ -53,4 +53,11 @@ int p6() {
     return (sqOfsm - smOfsq);
 }
 
+int main() {
+    printf("Answer to problem 1: %d\n", p1());
+    printf("Answer to problem 2: %d\n", p2());
+    printf("Answer to problem 5: %d\n", p5());
+    printf("Answer to problem 6: %d\n", p6()); 
+}
+
 
